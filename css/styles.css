@@ -7,7 +7,7 @@ section {
 }
 body {
   width: 80%;
-  height: 3500px;
+  height: 3000px;
   margin-left: 10%;
   color: #555;
 }
@@ -25,6 +25,7 @@ h1 {
 .lead {
   text-align: center;
   color: #0464AD;
+  margin-bottom: 25px;
 }
 
 .sub-head {
@@ -65,12 +66,12 @@ Projects section
   color: #047D96;
 }
 
-.about-me .container {
-  margin-right: -200px;
-}
-
 ol {
   letter-spacing: 2px;
+}
+
+a h3 {
+  color: #0464AD;
 }
 
 .col {
@@ -106,6 +107,6 @@ ol {
 }
 
 .about {
-
+ letter-spacing: 2px;
 
 }
