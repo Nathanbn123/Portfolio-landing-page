@@ -7,30 +7,31 @@ section {
   padding: 35px;
 }
 body {
-background-color: #f4f4f4;
 width: 80%;
 height: 2500px;
 margin-left: 10%;
 color: #555;
-opacity: 0.97;
+
 }
 
 h1 {
-  color:#0686E8;
+
   text-align: center;
 }
 
 .lead {
-  color:#FFB506;
   text-align: center;
 }
 
 .sub-head {
-
+margin-top: -20px;
+margin-left: 23%;
+margin-bottom: 10px;
 }
 
 .sub-head2 {
-
+margin-left: 46%;
+padding-bottom: 25px;
 }
 
 .self {
@@ -39,6 +40,7 @@ h1 {
   border: 2px solid #0686E8;
   border-radius: 80%;
   position: static;
+  margin-bottom: 25px;
 }
 
 .sub-image {
@@ -51,6 +53,7 @@ h1 {
 }
 .projects-header {
   text-align: center;
+  margin-bottom: 45px;
 }
 
 .img-responsive {
