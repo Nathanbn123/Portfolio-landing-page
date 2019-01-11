@@ -2,6 +2,9 @@ html {
   background-image: url(../img/bgimg.jpg);
   background-position: center;
 }
+section {
+  padding: 35px;
+}
 body {
 background-color: #0651ff;
 width: 80%;
@@ -45,4 +48,9 @@ h1 {
 }
 .projects-header {
   text-align: center;
+}
+
+.img-responsive {
+  height: 200px;
+  width: 300px;
 }
