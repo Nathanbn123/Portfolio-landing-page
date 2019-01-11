@@ -13,7 +13,9 @@ margin-left: 10%;
 color: #555;
 
 }
-
+/*********************************************************************
+header
+*/
 h1 {
 
   text-align: center;
@@ -46,7 +48,9 @@ padding-bottom: 25px;
 .sub-image {
   text-align: center;
 }
-
+/******************************************************************************
+Projects section
+*/
 .projects {
   background-color: #f4f4f4;
   text-align: center;
@@ -59,7 +63,9 @@ padding-bottom: 25px;
 .about-me .container {
   margin-right: -200px;
 }
-
+.cupcake{
+padding-bottom: 45px;
+}
 .img-responsive {
   height: 200px;
   width: 300px;
@@ -70,7 +76,8 @@ padding-bottom: 25px;
 
 .about-list{
   letter-spacing: 4px;
-  display: inline-block;
+  padding-left: 300px;
+
 }
 
 .about {
