@@ -1,25 +1,25 @@
 # _Portfolio Landing Page_
 
-#### _A web portfolio containing my mose recent work!, 1/11/19_
+#### _A web portfolio containing my most recent work!, 1/11/19_
 
 #### By _**Nathan Nielson**_
 
 ## Description
 
-_This application provides the user with a comprehensive list of MY absolute favorite things using text and images._                                              
+_This application provides the user with a comprehensive portfolio that features information about me, this information includes images of me, examples and links to some of my latest works as well as a small synopsis of my young adult life. You can view the site on Github Pages using this link: https://nathanbn123.github.io/Portfolio-landing-page/_                                              
 
 ## Setup/Installation Requirements
 
 *  _Use your command terminal (gitbash if you're using a windows machine) to clone the latest commit from Github, using the url provided_
 * _Open with a text editor such as Atom to view the code_
-* _Then, open with your preferred web browser, such as Chrome, to view the actual page_
+* _Then, open the file labeled "index.html" with your preferred web browser, such as Chrome, to view the actual page_
 
 ## Known Bugs
 
 _There are no known bugs with the current version of the application_
 
 ## Support and contact details
-_If you encounter any bugs or issues not documented during your experience, please feel free to contact me at my email:_ nathans-email@email.com
+_If you encounter any bugs or issues not documented during your experience, please feel free to contact me at my email: nathans-email@email.com_
 
 ## Technologies used
 
